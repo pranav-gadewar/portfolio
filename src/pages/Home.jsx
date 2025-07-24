@@ -139,12 +139,6 @@ const Home = () => {
                                 link: "https://algo-disc.vercel.app/",
                             },
                             {
-                                title: "Shop Me",
-                                desc: "An e-commerce static web application for Sports equipments with product listings, shopping cart, and checkout functionality, built using React.JS, Vite & Tailwind CSS.",
-                                imgSrc: "/projects/shop_me.png",
-                                link: "https://shop-me-tau.vercel.app/",
-                            },
-                            {
                                 title: "Budget Buddy",
                                 desc: "Budget Buddy is a responsive and user-friendly web application that helps you calculate monthly EMI (Equated Monthly Installment) for various loan types, view a detailed repayment breakdown, and download a comprehensive Excel report.",
                                 imgSrc: "/projects/budget-buddy.png",
