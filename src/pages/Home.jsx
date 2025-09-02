@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "/Profile_Pic.jpg";
+
 import {
     FaReact,
     FaCss3Alt,
@@ -68,7 +68,7 @@ const Home = () => {
                opacity-0 animate-slide-in-right delay-200"
                 >
                     <img
-                        src={profilePic}
+                        src="/Profile_Pic.jpg"
                         alt="Pranav Gadewar"
                         className="w-80 h-80 object-cover rounded-full shadow-lg 
                  transition-transform duration-300 hover:scale-105 hover:rotate-1"
