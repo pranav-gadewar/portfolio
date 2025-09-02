@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../assets/propic.jpg";
+import profilePic from "/Profile_Pic.jpg";
 import {
     FaReact,
     FaCss3Alt,
